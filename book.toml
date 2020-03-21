@@ -7,3 +7,4 @@ title = "Knowledge"
 
 [output.html]
 default-theme = "ayu"
+no-section-label = true
