@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Knowledge"
+
+[output.html]
+default-theme = "ayu"
