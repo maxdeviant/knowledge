@@ -68,7 +68,7 @@ Don Stewart, co-author of _Real World Haskell_ mentions the following [suggestio
 >
 > #### Warnings
 >
-> - Use -Wall to keep your code clean of smells. You might also look at Agda, Isabelle or Catch for more assurance. For lint-like checking, see the great [hlint](http://hackage.haskell.org/package/hlint), which will suggest improvements.
+> - Use `-Wall` to keep your code clean of smells. You might also look at Agda, Isabelle or Catch for more assurance. For lint-like checking, see the great [hlint](http://hackage.haskell.org/package/hlint), which will suggest improvements.
 >
 > With all these tools you can keep a handle on complexity, removing as many interactions between components as possible. Ideally, you have a very large base of pure code, which is really easy to maintain, since it is compositional. That's not always possible, but it is worth aiming for.
 >
