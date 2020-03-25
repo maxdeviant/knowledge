@@ -7,6 +7,7 @@
     - [Functional Programming](./computers/programming/functional_programming.md)
     - [Languages](./computers/programming/languages.md)
       - [Haskell](./computers/programming/languages/haskell.md)
+      - [Idris](./computers/programming/languages/idris.md)
       - [Rust](./computers/programming/languages/rust.md)
   - [Operating Systems](./computers/operating_systems.md)
     - [NixOS](./computers/operating_systems/nixos.md)
