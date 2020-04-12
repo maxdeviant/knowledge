@@ -11,3 +11,5 @@
       - [Rust](./computers/programming/languages/rust.md)
   - [Operating Systems](./computers/operating_systems.md)
     - [NixOS](./computers/operating_systems/nixos.md)
+  - [Communication](./computers/communication.md)
+    - [Matrix](./computers/communication/matrix.md)
