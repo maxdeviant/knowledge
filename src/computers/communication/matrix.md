@@ -14,4 +14,4 @@ You can use Matrix to bridge to IRC channels. This allows you to use Matrix in p
 | ------- | ----------------- | --------------- |
 | [freenode](https://freenode.net/) | #freenode_#&lt;channel&gt;:matrix.org | @appservice-irc:matrix.org |
 
-See [here](https://github.com/matrix-org/matrix-appservice-irc/wiki/Bridged-IRC-networks) for an up-to-date list of bridged IRC clients.
+See [here](https://github.com/matrix-org/matrix-appservice-irc/wiki/Bridged-IRC-networks) for an up-to-date list of bridged IRC networks.
