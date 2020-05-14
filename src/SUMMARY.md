@@ -9,6 +9,7 @@
       - [Haskell](./computers/programming/languages/haskell.md)
       - [Idris](./computers/programming/languages/idris.md)
       - [Rust](./computers/programming/languages/rust.md)
+    - [Git](./computers/programming/git.md)
   - [Operating Systems](./computers/operating_systems.md)
     - [NixOS](./computers/operating_systems/nixos.md)
   - [Communication](./computers/communication.md)
