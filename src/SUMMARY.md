@@ -8,6 +8,7 @@
     - [Languages](./computers/programming/languages.md)
       - [Haskell](./computers/programming/languages/haskell.md)
       - [Idris](./computers/programming/languages/idris.md)
+      - [PureScript](./computers/programming/languages/purescript.md)
       - [Rust](./computers/programming/languages/rust.md)
     - [Git](./computers/programming/git.md)
   - [Operating Systems](./computers/operating_systems.md)
